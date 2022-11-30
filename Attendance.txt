@@ -1,0 +1,4 @@
+StudentID: 2213110485
+Fullname: Natthaphong Matkhao
+AKA: Boss
+ClassDetail: 
